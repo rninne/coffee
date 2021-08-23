@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Coffee">9c094a4b1b4630102ec7a82c274bcb8d</applet_launcher>
+        <icon display_value="Home Coffee">50094a4b1b4630102ec7a82c274bcb8f</icon>
+        <label>Coffee</label>
+        <roles>x_appe_coffee.drinker</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-23 03:17:50</sys_created_on>
+        <sys_id>10094a4b1b4630102ec7a82c274bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Coffee</sys_name>
+        <sys_package display_value="Coffee" source="x_appe_coffee">21284e0b1b4630102ec7a82c274bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coffee">21284e0b1b4630102ec7a82c274bcbe1</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_10094a4b1b4630102ec7a82c274bcb8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-23 03:17:50</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

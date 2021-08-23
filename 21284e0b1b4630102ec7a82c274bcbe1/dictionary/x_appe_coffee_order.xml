@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Order" max_length="40" name="x_appe_coffee_order" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Size" max_length="40" name="size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Large" value="3"/>
+                <element inactive_on_update="false" label="Medium" value="2"/>
+                <element inactive_on_update="false" label="Small" value="1"/>
+            </choice>
+        </element>
+    </element>
+</database>

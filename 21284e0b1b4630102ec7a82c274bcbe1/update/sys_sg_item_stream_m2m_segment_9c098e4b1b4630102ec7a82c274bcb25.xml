@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Order Item Stream">90098e4b1b4630102ec7a82c274bcb25</item_stream>
+        <segment display_value="Order Item Stream Segment">14098e4b1b4630102ec7a82c274bcb24</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-23 03:17:50</sys_created_on>
+        <sys_id>9c098e4b1b4630102ec7a82c274bcb25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Coffee" source="x_appe_coffee">21284e0b1b4630102ec7a82c274bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coffee">21284e0b1b4630102ec7a82c274bcbe1</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_9c098e4b1b4630102ec7a82c274bcb25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-23 03:17:50</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

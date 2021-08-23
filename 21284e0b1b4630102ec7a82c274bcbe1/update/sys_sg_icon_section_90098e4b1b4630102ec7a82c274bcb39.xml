@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>d4098e4b1b4630102ec7a82c274bcb21</applets>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles>x_appe_coffee.drinker</required_roles>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-23 03:17:51</sys_created_on>
+        <sys_id>90098e4b1b4630102ec7a82c274bcb39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order</sys_name>
+        <sys_package display_value="Coffee" source="x_appe_coffee">21284e0b1b4630102ec7a82c274bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Coffee">21284e0b1b4630102ec7a82c274bcbe1</sys_scope>
+        <sys_update_name>sys_sg_icon_section_90098e4b1b4630102ec7a82c274bcb39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-23 03:17:51</sys_updated_on>
+        <table/>
+        <title>Order</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>
